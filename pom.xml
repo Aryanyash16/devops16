@@ -46,7 +46,7 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <!—Deploy to /docs folder -->
+                            <!-- Deploy to /docs folder -->
                             <outputDirectory>${project.basedir}/docs</outputDirectory>
 
                             <resources>
